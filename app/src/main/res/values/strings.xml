@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GradationTitleBar</string>
+    <string-array name="data">
+        <item>我是第一行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+        <item>我是第二行数据</item>
+    </string-array>
+</resources>
